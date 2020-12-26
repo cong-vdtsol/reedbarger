@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**reedbarger/reedbarger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong><a href="https://bit.ly/the-react-bootcamp">ReactBootcamp.com</a></strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://bit.ly/the-react-bootcamp">
+            <img
+              alt="Learn everything you need to know in the modern React landscape to become a professional developer in 2021 and beyond"
+              src="https://reactbootcamp.com/img/cover.png"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
