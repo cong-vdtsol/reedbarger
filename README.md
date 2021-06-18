@@ -13,7 +13,7 @@
           <a href="https://bit.ly/the-react-bootcamp">
             <img
               alt="Learn everything you need to know in the modern React landscape to become a professional developer in 2021 and beyond"
-              src="https://reactbootcamp.com/assets/img/cover.png"
+              src="https://reedbarger.nyc3.digitaloceanspaces.com/react-bootcamp-banner.png"
             />
           </a>
         </td>
